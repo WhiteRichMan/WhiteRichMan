@@ -3,11 +3,9 @@
 ![Header](https://github.com/WhiteRichMan/WhiteRichMan/blob/main/assets/animef.gif)
 
 <h1>📣About me </h1> 
+<strong>Hi👋, my name is Ruslan. I have been learning programming💻 for 4 months. During this time, I met and studied languages such as Python, Java, CSS, HTML, SQL, Django, JavaScript. While studying Java, I got acquainted and wrote an application in Android Studio. There I learned about the ML Framework Kit. At the moment I am seriously engaged in programming , learning to make bots in Python , studying Django . And I want to learn Java better. You can follow my progress here and on my Instagram page (link below). Have a good coding🧐.</strong><br>
 
-
-<strong>🐱‍💻Latest Instagram Post 🐱‍💻</strong>
-<!--Instagram:START -->
-<!--Instagram:END -->
+<h3>🐱‍💻Latest Instagram Post 🐱‍💻</h3>
 
 
 <h2>Languages and FrameWorks🌐 </h2>
