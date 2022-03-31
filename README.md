@@ -1,4 +1,5 @@
-#Hello 👋 I'm Ryslan beginner programmer💻
+<h3>Hello 👋 I'm Ryslan beginner programmer💻</h3>
+
 ![Header](https://github.com/WhiteRichMan/WhiteRichMan/blob/main/assets/animef.gif)
 
 <h1>About me 📣</h1> 
