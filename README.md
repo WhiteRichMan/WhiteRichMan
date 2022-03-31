@@ -2,7 +2,12 @@
 
 ![Header](https://github.com/WhiteRichMan/WhiteRichMan/blob/main/assets/animef.gif)
 
-<h1>About me 📣</h1> 
+<h1>📣About me </h1> 
+
+
+<strong>🐱‍💻Latest Instagram Post 🐱‍💻</strong>
+<!--Instagram:START-->
+<!--Instagram:END-->
 
 
 <h2>Languages and FrameWorks🌐 </h2>
@@ -18,10 +23,9 @@
 ![firebase](https://img.shields.io/badge/-Mlkit-grey?style=for-the-badge&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=for-the-badge&logo=PostgreSQL)
 
-<strong>Latest Instagram Post 🐱‍💻</strong>
 
-<strong>Follow me 🔔<strong><br>
-[![Instagram](https://img.shields.io/badge/-Instagram-grey?style=for-the-badge&logo=Instagram)](https://instagram.com/mitsarov_it?utm_medium=copy_link)
-[![Telegram](https://img.shields.io/badge/-Telegram-grey?style=for-the-badge&logo=Telegram)]()
-[![Vk](https://img.shields.io/badge/-VK-grey?style=for-the-badge&logo=VK&logoColor=6495ED)](https://vk.com/r_i_c_h_man)
-[![LinkedIN](https://img.shields.io/badge/-Linkedin-grey?style=for-the-badge&logo=Linkedin&logoColor=4682B4)](https://www.linkedin.com/in/ryslan-zagidullin-52b37a234/)
+<strong>🔗  Connect with me<strong> <br>
+[![Instagram](logo=Instagram)](https://instagram.com/mitsarov_it?utm_medium=copy_link)
+[![Telegram](logo=Telegram)](https://t.me/Pythonbooot)
+[![Vk](logo=VK&logoColor=6495ED)](https://vk.com/r_i_c_h_man)
+[![LinkedIN](logo=Linkedin&logoColor=4682B4)](https://www.linkedin.com/in/ryslan-zagidullin-52b37a234/)
