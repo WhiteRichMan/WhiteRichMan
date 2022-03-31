@@ -1,4 +1,4 @@
-![Header](https://github.com/WhiteRichMan/WhiteRichMan/blob/main/assets/infitity.gif)[width:1000px]
+![Header](https://github.com/WhiteRichMan/WhiteRichMan/blob/main/assets/animef.gif)
 
 about me
 
