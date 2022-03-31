@@ -25,7 +25,7 @@
 
 <h3>🔗 Connect with me</h3>
 
-[![StackOverFlow](https://img.shields.io/badge/-Instagram-grey?style=for-the-badge&logo=StackOverFlow)](https://stackoverflow.com/users/edit/18590774)
+[![StackOverFlow](https://img.shields.io/badge/-StackOVerflow-grey?style=for-the-badge&logo=StackOverFlow)](https://stackoverflow.com/users/edit/18590774)
 [![Instagram](https://img.shields.io/badge/-Instagram-grey?style=for-the-badge&logo=Instagram)](https://instagram.com/mitsarov_it?utm_medium=copy_link)
 [![Telegram](https://img.shields.io/badge/-Telegram-grey?style=for-the-badge&logo=Telegram)](https://t.me/Pythonbooot)
 [![Vk](https://img.shields.io/badge/-VK-grey?style=for-the-badge&logo=VK&logoColor=6495ED)](https://vk.com/r_i_c_h_man)
