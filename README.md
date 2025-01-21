@@ -1,4 +1,4 @@
-<h3>Hello 👋 I'm Ryslan Swift programmer💻</h3>
+<h3>Hello 👋 I'm Ryslan Project manager💻</h3>
 
 ![Header](https://github.com/WhiteRichMan/WhiteRichMan/blob/main/assets/animef.gif)
 
